@@ -82,7 +82,7 @@ char charval;
 int intval;
 }
 /* Line 1529 of yacc.c.  */
-#line 86 "lang.tab.h"
+#line 86 "y.tab.h"
 	YYSTYPE;
 # define yystype YYSTYPE /* obsolescent; will be withdrawn */
 # define YYSTYPE_IS_DECLARED 1
